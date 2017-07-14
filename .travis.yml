@@ -3,7 +3,7 @@
 language: cpp
 compiler:
   - gcc
-  
+# Run unit testing  
 script:
   - make clean
   - make test
