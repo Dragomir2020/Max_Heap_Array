@@ -1,5 +1,5 @@
 CC=g++
-CFLAGS=-c -Wall -ggdb -I.
+CFLAGS=-c -Wall -ggdb -I. --coverage
 LDFLAGS=
 SOURCES=heapsandbox.cpp MaxHeap.h
 EXECUTABLE=heapsandbox 
