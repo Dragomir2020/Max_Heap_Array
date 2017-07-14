@@ -1,0 +1,9 @@
+
+# Enable C++ support
+language: cpp
+compiler:
+  - gcc
+  
+script:
+  - make clean
+  - make test
