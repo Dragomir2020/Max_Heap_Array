@@ -37,7 +37,7 @@ clean:
 	rm -f suggest
 	
 # CXX Testing	
-CXXLOCATION = /Users/dillondragomir/Data_structures/dragomdv/Lab6/cxxtest
+CXXLOCATION = cxxtest
 CXXTESTGEN = $(CXXLOCATION)/bin/cxxtestgen
 
 test: testrunner 
