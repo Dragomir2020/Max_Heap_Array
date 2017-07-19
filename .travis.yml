@@ -1,4 +1,8 @@
-
+# Enable C++ support
+language: cpp
+compiler:
+  - gcc
+  - Clang
 
 install:
 - cd ${TRAVIS_BUILD_DIR}
