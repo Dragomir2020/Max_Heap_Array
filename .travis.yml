@@ -4,7 +4,7 @@ compiler:
   - gcc
 #before_install:
   #- pip install --user cpp-coveralls
-#script:
+script:
   #- ./configure --enable-gcov && make && make check
   - make clean
   - make test
