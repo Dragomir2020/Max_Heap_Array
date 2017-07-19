@@ -16,3 +16,6 @@
 - make test
 ## Check for Memory Leaks
 - valgrind ./testrunner
+## Clean Directory of Compiled Files
+- make clean
+- must do this to recompile code using make test
