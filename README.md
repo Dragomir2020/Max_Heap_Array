@@ -1,4 +1,4 @@
-# Max_Heap_Array  <a href="https://travis-ci.org/Dragomir2020/Max_Heap_Array" rel="some text">![Foo](https://travis-ci.org/Dragomir2020/BasicUnitTest.svg?branch=master,raw=true "Build Passing")</a>    <a href='https://coveralls.io/github/Dragomir2020/Max_Heap_Array?branch=master'><img src='https://coveralls.io/repos/github/Dragomir2020/Max_Heap_Array/badge.svg?branch=master' alt='Coverage Status' /></a>
+# Max_Heap_Array  <a href="https://travis-ci.org/Dragomir2020/Max_Heap_Array" rel="some text">![Foo](https://travis-ci.org/Dragomir2020/BasicUnitTest.svg?branch=master,raw=true "Build Passing")</a>    [![Coverage Status](https://coveralls.io/repos/github/Dragomir2020/Max_Heap_Array/badge.svg?branch=master)](https://coveralls.io/github/Dragomir2020/Max_Heap_Array?branch=master)
 - Max Heap Array Implemented in c++
 - Templated class to accept all data types and strings
 ## Install cxxtest
