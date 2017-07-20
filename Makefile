@@ -1,6 +1,6 @@
 CC=gcc
-CFLAGS=-c -Wall -ggdb -I. --coverage -o0
-LDFLAGS=--coverage -o0
+CFLAGS=-c -Wall -ggdb -I. --coverage -O0
+LDFLAGS=--coverage -O0
 SOURCES=heapsandbox.cpp MaxHeap.h
 EXECUTABLE=heapsandbox 
 TESTS=MaxHeap_test.h
