@@ -45,7 +45,7 @@ test: testrunner
 	
 
 testrunner: testrunner.cpp $(OBJECTS)
-	g++ -I. -ggdb -Wall -I$(CXXLOCATION)/ -o testrunner testrunner.cpp 
+	gpp -I. -ggdb -Wall -I$(CXXLOCATION)/ -o testrunner testrunner.cpp 
 	
 
 testrunner.cpp: $(HEADERS) $(TESTSSOURCES) $(SOURCES) $(TESTS)
