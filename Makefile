@@ -1,4 +1,4 @@
-CC=gpp
+CC=g++
 CFLAGS=-c -Wall -ggdb -I. --coverage -O0
 LDFLAGS=--coverage
 SOURCES=heapsandbox.cpp MaxHeap.h
